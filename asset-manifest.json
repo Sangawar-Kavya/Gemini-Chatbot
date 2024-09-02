@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gemini-Chatbot/static/css/main.a7d53b21.css",
+    "main.js": "/Gemini-Chatbot/static/js/main.234660e3.js",
+    "index.html": "/Gemini-Chatbot/index.html",
+    "main.a7d53b21.css.map": "/Gemini-Chatbot/static/css/main.a7d53b21.css.map",
+    "main.234660e3.js.map": "/Gemini-Chatbot/static/js/main.234660e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7d53b21.css",
+    "static/js/main.234660e3.js"
+  ]
+}
